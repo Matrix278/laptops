@@ -1,5 +1,7 @@
 # Laptops
-### My internet-showcase of Laptops with use of Bootstrap 4 - martinsidorov.net16.net/laptops <br/>
+### My internet-showcase of Laptops with use of Bootstrap 4 - https://martinsidorov.net16.net/laptops <br/>
+### https://method27.000webhostapp.com/laptops/ <br/>
+### https://method27.000webhostapp.com/laptops/admin <br/>
 Bootstrap 4 - https://getbootstrap.com/ <br/>
 Font Awesome - https://fontawesome.com/v4.7.0/ <br/>
 TCPDF - https://github.com/tecnickcom/tcpdf <br/>
