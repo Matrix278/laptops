@@ -1,0 +1,9 @@
+.oneButtonForm{ display: inline-block; width: auto; padding: none; margin: none;}
+.oneButtonForm input{ font-size: 40px; background-color: #0066cc; color: #FFF; padding: 20px; margin: none; border: 0; cursor: pointer; box-shadow: 0 5px 2px rgba(0,0,0,0.5);}
+.oneButtonForm input:hover{ background-color: #004d99; box-shadow: 0 3px 2px rgba(0,0,0,0.8);}
+.oneButtonForm:first-child input{ border-radius: 10px 0 0 10px}
+.oneButtonForm:last-child input{ border-radius: 0 10px 10px 0}
+.oneButtonForm input[name="btnExit"]{ background-color: #b30000;}
+.msggoodNews{ margin: 10px 0; padding: 10px; border-radius: 3px 3px 3px 3px; color: #270; background-color: #DFF2BF; font-size: 25px;}
+.msgbadNews{ margin: 10px 0; padding: 10px; border-radius: 3px 3px 3px 3px; color: #D8000C; background-color: #FFBABA; font-size: 25px;}
+

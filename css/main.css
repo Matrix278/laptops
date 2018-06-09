@@ -1,0 +1,54 @@
+/*div{border:1px solid grey; border-radius: 6px; background-color:#cc9966;}*/
+.header{ height: auto; background-color: #d3d8de;}/*#ff8e82*/
+.logo{
+  height: 150px;
+  width: 200px;
+  }
+#logoImg{
+    width: 150px;
+    height: 150px;
+}
+.brand{
+  height: 100px;
+  border-radius: 10px;
+  background-color: #6ba1b9;/*#ff3333*/
+  margin-top: 20px;
+}
+.service{
+  height: 160px;
+  border-radius: 10px;
+  background-color: #90d854;
+  margin-top: 20px;
+  width: 200px;
+}
+#search{margin: 15px;}
+.main{height: auto; background-color: #64bbe0;}
+.footer{padding-top: 100px; height: auto; background-color: #061D25; color: white;}
+.footer a {font-size: 20px; text-shadow: 1px 2px 3px rgba(0,0,0,0.2); padding: 0 10px; color: #f1f7e5;}
+.footer a:hover{color:#fff; text-decoration: none; text-shadow: 1px 2px 3px rgba(0,0,0,0,8);}
+
+.footerLinks a {color: white; font-size: 20px; padding: 10px; transition: all .5s ease;}
+.footerLinks a:hover {color: #e87533;}
+
+.socialize a {color: #70726F; font-size: 25px; padding: 10px; transition: all .5s ease;}
+.socialize a:hover {color: white;}
+
+.langLink{text-shadow: 1px 2px 3px rgba(0,0,0,0.2); padding: 0 10px; color: #f1f7e5;}
+.langLink:hover{color:#fff; text-decoration: none; text-shadow: 1px 2px 3px rgba(0,0,0,0,8);}
+
+.carousel-item img{
+        width: 500px;
+        height: 800px /*1300px*/
+    }
+    .c-wrapper{
+        width: 70%;
+        margin: auto;
+    }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {outline: black; background-size: 100%; border-radius: 20px; border: 5px solid black;}
+
+ol.carousel-indicators li,
+ol.carousel-indicators li.active {float: left; width: 10%; height: 10px; margin: 0; border-radius: 0; border: 0; background: transparent;}
+ol.carousel-indicators li.active {background: black;}
+ol.carousel-indicators li {background: #f8f9fa36;}
