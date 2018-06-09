@@ -1,5 +1,5 @@
 # Laptops
-### My internet-showcase of Laptops with use of Bootstrap 4 - https://martinsidorov.net16.net/laptops <br/>
+### My internet-showcase of Laptops with use of Bootstrap 4 - http://martinsidorov.net16.net/laptops <br/>
 ### https://method27.000webhostapp.com/laptops/ <br/>
 ### https://method27.000webhostapp.com/laptops/admin <br/>
 Bootstrap 4 - https://getbootstrap.com/ <br/>
